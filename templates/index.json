@@ -1,1 +1,144 @@
-{"sections":{"d4cdd7fa-2e51-494f-a731-ad74d64c7fc4":{"type":"image-banner","blocks":{"template--15146052288560__d4cdd7fa-2e51-494f-a731-ad74d64c7fc4-heading-1":{"type":"heading","settings":{"heading":"Get Ready to Shop","heading_size":"h1"}},"template--15146052288560__d4cdd7fa-2e51-494f-a731-ad74d64c7fc4-text-1":{"type":"text","settings":{"text":"A fresh approach to shopping.","text_style":"body"}},"d4b7d3ed-ad3b-4fb0-937c-c2b790a49e68":{"type":"buttons","settings":{"button_label_1":"Shop","button_link_1":"shopify:\/\/collections\/all","button_style_secondary_1":true,"button_label_2":"","button_link_2":"","button_style_secondary_2":false}}},"block_order":["template--15146052288560__d4cdd7fa-2e51-494f-a731-ad74d64c7fc4-heading-1","template--15146052288560__d4cdd7fa-2e51-494f-a731-ad74d64c7fc4-text-1","d4b7d3ed-ad3b-4fb0-937c-c2b790a49e68"],"settings":{"image":"shopify:\/\/shop_images\/women-shopping.jpg","image_overlay_opacity":30,"image_height":"small","desktop_content_position":"middle-left","show_text_box":false,"desktop_content_alignment":"center","color_scheme":"inverse","image_behavior":"none","mobile_content_alignment":"center","stack_images_on_mobile":true,"show_text_below":true}},"f8fee93a-255a-4b6f-9902-73302f5957f3":{"type":"collection-list","blocks":{"template--15146052288560__f8fee93a-255a-4b6f-9902-73302f5957f3-featured_collection-1":{"type":"featured_collection","settings":{"collection":"electronics"}},"template--15146052288560__f8fee93a-255a-4b6f-9902-73302f5957f3-featured_collection-2":{"type":"featured_collection","settings":{"collection":"jewels"}},"84c539f1-1664-41af-8666-672a2e95c8ff":{"type":"featured_collection","settings":{"collection":"textiles"}}},"block_order":["template--15146052288560__f8fee93a-255a-4b6f-9902-73302f5957f3-featured_collection-1","template--15146052288560__f8fee93a-255a-4b6f-9902-73302f5957f3-featured_collection-2","84c539f1-1664-41af-8666-672a2e95c8ff"],"settings":{"title":"Collections","heading_size":"h1","image_ratio":"square","columns_desktop":3,"color_scheme":"","show_view_all":false,"columns_mobile":"1","swipe_on_mobile":false,"padding_top":36,"padding_bottom":36}},"2af82437-3f52-4423-a95b-a0624de5f827":{"type":"image-banner","blocks":{"template--15146052288560__2af82437-3f52-4423-a95b-a0624de5f827-heading-1":{"type":"heading","settings":{"heading":"Always in style!","heading_size":"h1"}},"template--15146052288560__2af82437-3f52-4423-a95b-a0624de5f827-text-1":{"type":"text","settings":{"text":"Life is hard enough already. Let us make it a little easier.","text_style":"body"}}},"block_order":["template--15146052288560__2af82437-3f52-4423-a95b-a0624de5f827-heading-1","template--15146052288560__2af82437-3f52-4423-a95b-a0624de5f827-text-1"],"settings":{"image":"shopify:\/\/shop_images\/Woman-Shopping-Banner.jpg","image_overlay_opacity":0,"image_height":"medium","desktop_content_position":"top-right","show_text_box":false,"desktop_content_alignment":"center","color_scheme":"background-2","image_behavior":"none","mobile_content_alignment":"center","stack_images_on_mobile":true,"show_text_below":true}}},"order":["d4cdd7fa-2e51-494f-a731-ad74d64c7fc4","f8fee93a-255a-4b6f-9902-73302f5957f3","2af82437-3f52-4423-a95b-a0624de5f827"]}
+{
+  "sections": {
+    "d4cdd7fa-2e51-494f-a731-ad74d64c7fc4": {
+      "type": "image-banner",
+      "blocks": {
+        "template--15146052288560__d4cdd7fa-2e51-494f-a731-ad74d64c7fc4-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Get Ready to Shop",
+            "heading_size": "h1"
+          }
+        },
+        "template--15146052288560__d4cdd7fa-2e51-494f-a731-ad74d64c7fc4-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "A fresh approach to shopping.",
+            "text_style": "body"
+          }
+        },
+        "d4b7d3ed-ad3b-4fb0-937c-c2b790a49e68": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Shop",
+            "button_link_1": "shopify:\/\/collections\/all",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--15146052288560__d4cdd7fa-2e51-494f-a731-ad74d64c7fc4-heading-1",
+        "template--15146052288560__d4cdd7fa-2e51-494f-a731-ad74d64c7fc4-text-1",
+        "d4b7d3ed-ad3b-4fb0-937c-c2b790a49e68"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/women-shopping.jpg",
+        "image_overlay_opacity": 30,
+        "image_height": "small",
+        "desktop_content_position": "middle-left",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "inverse",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "f8fee93a-255a-4b6f-9902-73302f5957f3": {
+      "type": "collection-list",
+      "blocks": {
+        "template--15146052288560__f8fee93a-255a-4b6f-9902-73302f5957f3-featured_collection-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "electronics"
+          }
+        },
+        "template--15146052288560__f8fee93a-255a-4b6f-9902-73302f5957f3-featured_collection-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "jewels"
+          }
+        },
+        "84c539f1-1664-41af-8666-672a2e95c8ff": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "textiles"
+          }
+        }
+      },
+      "block_order": [
+        "template--15146052288560__f8fee93a-255a-4b6f-9902-73302f5957f3-featured_collection-1",
+        "template--15146052288560__f8fee93a-255a-4b6f-9902-73302f5957f3-featured_collection-2",
+        "84c539f1-1664-41af-8666-672a2e95c8ff"
+      ],
+      "settings": {
+        "title": "Collections",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "2af82437-3f52-4423-a95b-a0624de5f827": {
+      "type": "image-banner",
+      "blocks": {
+        "template--15146052288560__2af82437-3f52-4423-a95b-a0624de5f827-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Always in style!",
+            "heading_size": "h1"
+          }
+        },
+        "template--15146052288560__2af82437-3f52-4423-a95b-a0624de5f827-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "Life is hard enough already. Let us make it a little easier.",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--15146052288560__2af82437-3f52-4423-a95b-a0624de5f827-heading-1",
+        "template--15146052288560__2af82437-3f52-4423-a95b-a0624de5f827-text-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Woman-Shopping-Banner.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "top-right",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-2",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "979ca57b-21e9-4ff7-ae6d-a2688b416fe9": {
+      "type": "contact-form",
+      "settings": {
+        "heading": "Contact form",
+        "heading_size": "h1",
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "d4cdd7fa-2e51-494f-a731-ad74d64c7fc4",
+    "f8fee93a-255a-4b6f-9902-73302f5957f3",
+    "2af82437-3f52-4423-a95b-a0624de5f827",
+    "979ca57b-21e9-4ff7-ae6d-a2688b416fe9"
+  ]
+}
