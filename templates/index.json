@@ -68,12 +68,19 @@
           "settings": {
             "collection": "textiles"
           }
+        },
+        "655ca498-9b2c-42d1-947c-96dd97101b9e": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "mobile-collection"
+          }
         }
       },
       "block_order": [
         "template--15146052288560__f8fee93a-255a-4b6f-9902-73302f5957f3-featured_collection-1",
         "template--15146052288560__f8fee93a-255a-4b6f-9902-73302f5957f3-featured_collection-2",
-        "84c539f1-1664-41af-8666-672a2e95c8ff"
+        "84c539f1-1664-41af-8666-672a2e95c8ff",
+        "655ca498-9b2c-42d1-947c-96dd97101b9e"
       ],
       "settings": {
         "title": "Collections",
